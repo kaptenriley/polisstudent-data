@@ -12,7 +12,7 @@ Filer som appen **Inte Moodle** hämtar från GitHub Pages (`https://kaptenriley
 1. Öppna `popup.json` här på github.com och tryck på pennan (**Edit this file**).
 2. Ändra eller lägg till ett meddelande (se fälten nedan). Sätt `"aktiv": true`.
 3. Tryck **Commit changes…** → **Commit changes**.
-4. Efter några minuter (GitHub Pages) visas rutan för alla som öppnar appen. Appen kollar högst var 30:e minut.
+4. Efter några minuter (GitHub Pages) visas rutan för alla som öppnar appen. Appen kollar varje gång den öppnas.
 
 Varje person ser ett meddelande **en gång** (eller en gång per dag med `"visa": "varje dag"`).
 Vill du att samma meddelande ska visas igen för alla: byt `id`.
