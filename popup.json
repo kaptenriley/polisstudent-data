@@ -1,28 +1,26 @@
 {
-  "meddelanden": [
+  "meddelanden" : [
     {
-      "id": "polisplugg-1",
-      "aktiv": false,
-      "titel": "Plugga smartare med Polisplugg",
-      "text": "Förhör dig själv inför tentorna med frågor som följer kurserna på polisprogrammet.",
-      "knapp": "Till Polisplugg",
-      "lank": "https://LÄGG-IN-ADRESSEN-HÄR",
-      "ikon": "book.fill",
-      "fran": "2026-11-10",
-      "till": "2026-12-31",
-      "visa": "en gång"
+      "aktiv" : true,
+      "id" : "polisplugg-1",
+      "ikon" : "book.fill",
+      "knapp" : "Till Polisplugg",
+      "lank" : "https://apps.apple.com/se/app/polis-detektor-kamera-radar/id1643416096",
+      "text" : "Förhör dig själv inför tentorna med frågor som följer kurserna på polisprogrammet.",
+      "titel" : "Plugga smartare med Polisplugg",
+      "visa" : "en gång"
     },
     {
-      "id": "poliscase-1",
-      "aktiv": false,
-      "titel": "Träna på riktiga case",
-      "text": "Poliscase-appen låter dig öva på situationer från polisarbetet – på bussen, i soffan eller inför praktiken.",
-      "knapp": "Ladda ner Poliscase",
-      "lank": "https://apps.apple.com/LÄGG-IN-LÄNKEN-HÄR",
-      "ikon": "shield.lefthalf.filled",
-      "fran": "2026-11-17",
-      "till": "2026-12-31",
-      "visa": "en gång"
+      "aktiv" : false,
+      "fran" : "2026-11-17",
+      "id" : "poliscase-1",
+      "ikon" : "shield.lefthalf.filled",
+      "knapp" : "Ladda ner Poliscase",
+      "lank" : "https://apps.apple.com/LÄGG-IN-LÄNKEN-HÄR",
+      "text" : "Poliscase-appen låter dig öva på situationer från polisarbetet – på bussen, i soffan eller inför praktiken.",
+      "till" : "2026-12-31",
+      "titel" : "Träna på riktiga case",
+      "visa" : "en gång"
     }
   ]
 }
