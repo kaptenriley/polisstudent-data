@@ -1,26 +1,52 @@
 {
-  "meddelanden" : [
+  "mallar": [
     {
-      "aktiv" : true,
-      "id" : "polisplugg-1",
-      "ikon" : "book.fill",
-      "knapp" : "Till Polisplugg",
-      "lank" : "https://apps.apple.com/se/app/polis-detektor-kamera-radar/id1643416096",
-      "text" : "Förhör dig själv inför tentorna med frågor som följer kurserna på polisprogrammet.",
-      "titel" : "Plugga smartare med Polisplugg",
-      "visa" : "en gång"
+      "bakgrund": "#0D1E3C",
+      "farg": "#F7CF5F",
+      "logo": "https://kaptenriley.github.io/polisstudent-data/logos/polisplugg.png",
+      "namn": "Polisplugg"
     },
     {
-      "aktiv" : false,
-      "fran" : "2026-11-17",
-      "id" : "poliscase-1",
-      "ikon" : "shield.lefthalf.filled",
-      "knapp" : "Ladda ner Poliscase",
-      "lank" : "https://apps.apple.com/LÄGG-IN-LÄNKEN-HÄR",
-      "text" : "Poliscase-appen låter dig öva på situationer från polisarbetet – på bussen, i soffan eller inför praktiken.",
-      "till" : "2026-12-31",
-      "titel" : "Träna på riktiga case",
-      "visa" : "en gång"
+      "bakgrund": "#0D1E3C",
+      "farg": "#FFD65C",
+      "logo": "https://kaptenriley.github.io/polisstudent-data/logos/polisbanken.png",
+      "namn": "Polisbanken"
+    },
+    {
+      "bakgrund": "#0D1E3C",
+      "farg": "#FFD65C",
+      "logo": "https://kaptenriley.github.io/polisstudent-data/logos/poliscase.png",
+      "namn": "Poliscase"
+    }
+  ],
+  "meddelanden": [
+    {
+      "aktiv": true,
+      "bakgrund": "#0D1E3C",
+      "farg": "#F7CF5F",
+      "id": "polisplugg-1",
+      "ikon": "book.fill",
+      "knapp": "Till Polisplugg",
+      "lank": "https://apps.apple.com/se/app/polis-detektor-kamera-radar/id1643416096",
+      "logo": "https://kaptenriley.github.io/polisstudent-data/logos/polisplugg.png",
+      "text": "Förhör dig själv inför tentorna med frågor som följer kurserna på polisprogrammet.",
+      "titel": "Plugga smartare med Polisplugg",
+      "visa": "en gång"
+    },
+    {
+      "aktiv": false,
+      "bakgrund": "#0D1E3C",
+      "farg": "#FFD65C",
+      "fran": "2026-11-17",
+      "id": "poliscase-1",
+      "ikon": "shield.lefthalf.filled",
+      "knapp": "Ladda ner Poliscase",
+      "lank": "https://apps.apple.com/LÄGG-IN-LÄNKEN-HÄR",
+      "logo": "https://kaptenriley.github.io/polisstudent-data/logos/poliscase.png",
+      "text": "Poliscase-appen låter dig öva på situationer från polisarbetet – på bussen, i soffan eller inför praktiken.",
+      "till": "2026-12-31",
+      "titel": "Träna på riktiga case",
+      "visa": "en gång"
     }
   ]
 }
